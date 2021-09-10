@@ -7,3 +7,5 @@ Combining our experiences from working with Databricks customers, we do a deep d
 Authors:
 - Niall Turbitt
 - Chengyin Eng
+
+Recording available on YouTube: https://www.youtube.com/watch?v=tGckE83S-4s
